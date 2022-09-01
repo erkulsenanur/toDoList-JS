@@ -8,7 +8,7 @@ let list = document.getElementsByTagName("li"); // reach the "li"
 
 let close = document.getElementsByClassName("close"); //close button
 
-let tasks = localStorage.getItem("tasks") ? JSON.parse(localStorage.getItem("tasks")) : []; //localeStorage 
+let tasks = localStorage.getItem("tasks") ? JSON.parse(localStorage.getItem("tasks")) : []; //localtypographical error is correctedStorage 
 
 let counter = 0; //for the tasks id
 
