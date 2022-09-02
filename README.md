@@ -19,7 +19,7 @@ After cloning the project, open it in Visual Studio Code.
 
 For Linux:
 ```
-cd kodluyoruzLocaleClock
+cd toDoList-JS
 code .
 ```
 
